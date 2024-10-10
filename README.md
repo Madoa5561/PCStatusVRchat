@@ -11,7 +11,7 @@ PCStatusVRChatは、VRChatにおけるPCステータスの表示を簡単に行�
 
 2. **ダウンロード**  
    以下のリンクをクリックして、ダウンロードを開始してください。  
-   [ダウンロードリンク](https://github.com/Madoa5561/PCStatusVRchat/releases/tag/untagged-edc4826025b2da030b74)  
+   [ダウンロードリンク](https://github.com/Madoa5561/PCStatusVRchat/releases/tag/v1.0.0)  
    `VRC-status-drop.exe`をクリックすると、ダウンロードが始まります。
 
 ## 問題が発生した場合
